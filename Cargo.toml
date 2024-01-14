@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "utils/flat",
+    "utils/math",
+    "utils/strings",
+    "day-01",
+]
+resolver = "2"
