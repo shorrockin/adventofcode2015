@@ -4,6 +4,7 @@ members = [
     "utils/flat",
     "utils/math",
     "utils/strings",
+    "utils/debug",
     "day-01",
     "day-02",
     "day-03",
